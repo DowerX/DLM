@@ -1,0 +1,71 @@
+downloads: D:/Downloads/
+conditions:
+  #Pictures
+  - ext: png
+    path: D:/Pictures/
+  - ext: jpg
+    path: D:/Pictures/
+  - ext: gif
+    path: D:/Pictures/
+  - ext: webp
+    path: D:/Pictures/
+  - ext: psd
+    path: D:/Pictures/
+  #Videos
+  - ext: mp4
+    path: D:/Videos/
+  - ext: avi
+    path: D:/Videos/
+  - ext: webm
+    path: D:/Videos/
+  - ext: mov
+    path: D:/Videos/
+  - ext: bik
+    path: D:/Videos/
+  - ext: mkv
+    path: D:/Videos/
+  - ext: mpeg
+    path: D:/Videos/
+  - ext: mts
+    path: D:/Videos/
+  #Audio
+  - ext: mp3
+    path: D:/Music/
+  - ext: ogg
+    path: D:/Music/
+  - ext: flac
+    path: D:/Music/
+  - ext: wav
+    path: D:/Music/
+  - ext: m4a
+    path: D:/Music/
+  #Documents
+  - ext: pdf
+    path: D:/Documents/pdf
+  - ext: doc
+    path: D:/Documents/doc
+  - ext: docx
+    path: D:/Documents/doc
+  - ext: ppt
+    path: D:/Documents/ppt
+  - ext: pptx
+    path: D:/Documents/ppt
+  - ext: xls
+    path: D:/Documents/xls
+  - ext: xlsx
+    path: D:/Documents/xls
+  - ext: txt
+    path: D:/Documents/txt
+  - ext: zip
+    path: D:/Documents/compressed
+  - ext: rar
+    path: D:/Documents/compressed
+  - ext: 7z
+    path: D:/Documents/compressed
+  - ext: tar
+    path: D:/Documents/compressed
+  #Executable
+  - ext: exe
+    path: D:/Documents/executable
+  - ext: msi
+    path: D:/Documents/executable
